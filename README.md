@@ -16,6 +16,7 @@
 ## 问题处理
 
 proxies 相关的报错——使用 `conda install httpx`
+![image](https://github.com/user-attachments/assets/d3f7fb4c-c9d5-4845-8b80-82245628e2a4)
 
 encoding 相关的报错——使用 `pip install moviepy==2.0.0.dev2`
 
